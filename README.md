@@ -37,7 +37,15 @@ This is a MERN Stack application, similar to pastebin that allows users to paste
 * MongoDB (MongoDB Atlas)
 * Node.js                                                                
                                                                 
+## Demo and link to deployed the application
+<video width="400" controls>
+    <source src="./pastopedia/static/video.mp4" type="video/mp4">
+</video>
 
+
+
+The Clip It application is deployed in glitch platform. This is the link to the deployed application <b>:</b>
+ [https://cloudy-grand-noise.glitch.me/](https://cloudy-grand-noise.glitch.me/)
 
 
 ## Setup
@@ -50,7 +58,7 @@ This is a MERN Stack application, similar to pastebin that allows users to paste
                                                                 
 In the first terminal
 ***
-* cd frontend and create a .env file in the root of your client directory.
+
                                                                  
 ```
 $ cd frontend
