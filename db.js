@@ -1,6 +1,6 @@
 const firebase = require("firebase/app");
 const admin = require("firebase-admin");
-const serviceAccount = require("./firebase-key.json");
+const serviceAccount = require("./serviceAccountKey.json");
 const uuid = require("uuid-random");
 const bcrypt = require("bcrypt");
 
