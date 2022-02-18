@@ -8,7 +8,7 @@
 This is a MERN Stack based website where users can dump/paste some content or code of any language and they receive a short link to share it.
 
 ## Introduction
-This is a MERN Stack application, similar to pastebin that allows users to paste code in the language of their choice 
+This is a MERN Stack application, similar to pastebin that allows users to paste code in the language of their choice and also see the pastes that they have created.
 
 
 ## Screenshots
@@ -22,7 +22,8 @@ This is a MERN Stack application, similar to pastebin that allows users to paste
 </p>
 <p float="left" align="center">
   <img src="https://i.ibb.co/RBbXnZK/image.png" width="200" />
-  <img src="https://i.ibb.co/5knDgNX/image.png" width="200" /> 
+  <img src="https://i.ibb.co/5knDgNX/image.png" width="200" />
+  <img src="https://i.ibb.co/9qbXdBy/Screenshot-115.png" width="200" />
 </p>
 
 
