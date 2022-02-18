@@ -26,15 +26,8 @@ This is a MERN Stack application, similar to pastebin that allows users to paste
 </p>
 
 
-## Demo and link to deployed the application
-<video width="400" controls>
-    <source src="./pastopedia/static/video.mp4" type="video/mp4">
-</video>
 
 
-
-The Clip It application is deployed in firebase platform. This is the link to the deployed application <b>:</b>
- [https://dustbin4devs.herokuapp.com/](https://dustbin4devs.herokuapp.com/)
 
 
  
@@ -83,5 +76,4 @@ $ npm install (to install server-side dependencies)
 
 So we are done and Hurrah!🎉 the app is running.
 
-## Deploying the app to Firebase(Optional)
-Now although it's running good in local server but to deploy to firebase we have to make few more changes. Refer to [this](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) tutorial for detailed step by step deployment to firebase.
+
